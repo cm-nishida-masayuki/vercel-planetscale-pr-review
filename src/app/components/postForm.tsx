@@ -43,7 +43,7 @@ export default function PostForm() {
       </div>
       <div>
         <label htmlFor="" className="inline-block w-20">
-          タイトル
+          タイトルイ
         </label>
         <input
           type="text"
